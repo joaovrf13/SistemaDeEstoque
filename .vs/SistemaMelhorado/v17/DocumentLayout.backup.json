@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaov\\source\\repos\\SistemaMelhorado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B738B07-D9DD-4CD8-ADEC-DE3DB326BED3}|SistemaMelhorado.csproj|c:\\users\\joaov\\source\\repos\\sistemamelhorado\\conex\u00E3o banco\\conexaobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B738B07-D9DD-4CD8-ADEC-DE3DB326BED3}|SistemaMelhorado.csproj|solutionrelative:conex\u00E3o banco\\conexaobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B738B07-D9DD-4CD8-ADEC-DE3DB326BED3}|SistemaMelhorado.csproj|c:\\users\\joaov\\source\\repos\\sistemamelhorado\\cliente\\cliente_forms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B738B07-D9DD-4CD8-ADEC-DE3DB326BED3}|SistemaMelhorado.csproj|solutionrelative:cliente\\cliente_forms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B738B07-D9DD-4CD8-ADEC-DE3DB326BED3}|SistemaMelhorado.csproj|C:\\Users\\joaov\\source\\repos\\SistemaMelhorado\\form principal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B738B07-D9DD-4CD8-ADEC-DE3DB326BED3}|SistemaMelhorado.csproj|solutionrelative:form principal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B738B07-D9DD-4CD8-ADEC-DE3DB326BED3}|SistemaMelhorado.csproj|c:\\users\\joaov\\source\\repos\\sistemamelhorado\\cliente\\cliente_forms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B738B07-D9DD-4CD8-ADEC-DE3DB326BED3}|SistemaMelhorado.csproj|solutionrelative:cliente\\cliente_forms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B738B07-D9DD-4CD8-ADEC-DE3DB326BED3}|SistemaMelhorado.csproj|c:\\users\\joaov\\source\\repos\\sistemamelhorado\\estoque\\produtos\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B738B07-D9DD-4CD8-ADEC-DE3DB326BED3}|SistemaMelhorado.csproj|solutionrelative:estoque\\produtos\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B738B07-D9DD-4CD8-ADEC-DE3DB326BED3}|SistemaMelhorado.csproj|c:\\users\\joaov\\source\\repos\\sistemamelhorado\\form principal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B738B07-D9DD-4CD8-ADEC-DE3DB326BED3}|SistemaMelhorado.csproj|solutionrelative:form principal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B738B07-D9DD-4CD8-ADEC-DE3DB326BED3}|SistemaMelhorado.csproj|c:\\users\\joaov\\source\\repos\\sistemamelhorado\\cliente\\somadedivida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B738B07-D9DD-4CD8-ADEC-DE3DB326BED3}|SistemaMelhorado.csproj|solutionrelative:cliente\\somadedivida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joaov\\source\\repos\\SistemaMelhorado\\Form Principal\\Form1.cs",
+              "RelativeDocumentMoniker": "Form Principal\\Form1.cs",
+              "ToolTip": "C:\\Users\\joaov\\source\\repos\\SistemaMelhorado\\Form Principal\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Form Principal\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:27:20.266Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConexaoBanco.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\source\\repos\\SistemaMelhorado\\Conex\u00E3o Banco\\ConexaoBanco.cs",
+              "RelativeDocumentMoniker": "Conex\u00E3o Banco\\ConexaoBanco.cs",
+              "ToolTip": "C:\\Users\\joaov\\source\\repos\\SistemaMelhorado\\Conex\u00E3o Banco\\ConexaoBanco.cs*",
+              "RelativeToolTip": "Conex\u00E3o Banco\\ConexaoBanco.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:13:32.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produtos.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\source\\repos\\SistemaMelhorado\\Estoque\\Produtos\\Produtos.cs",
+              "RelativeDocumentMoniker": "Estoque\\Produtos\\Produtos.cs",
+              "ToolTip": "C:\\Users\\joaov\\source\\repos\\SistemaMelhorado\\Estoque\\Produtos\\Produtos.cs",
+              "RelativeToolTip": "Estoque\\Produtos\\Produtos.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T22:44:40.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SomaDeDivida.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\source\\repos\\SistemaMelhorado\\Cliente\\SomaDeDivida.cs",
+              "RelativeDocumentMoniker": "Cliente\\SomaDeDivida.cs",
+              "ToolTip": "C:\\Users\\joaov\\source\\repos\\SistemaMelhorado\\Cliente\\SomaDeDivida.cs",
+              "RelativeToolTip": "Cliente\\SomaDeDivida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T22:43:35.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente_Forms.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\source\\repos\\SistemaMelhorado\\Cliente\\Cliente_Forms.cs",
+              "RelativeDocumentMoniker": "Cliente\\Cliente_Forms.cs",
+              "ToolTip": "C:\\Users\\joaov\\source\\repos\\SistemaMelhorado\\Cliente\\Cliente_Forms.cs",
+              "RelativeToolTip": "Cliente\\Cliente_Forms.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAnwF8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:31:05.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente_Forms.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joaov\\source\\repos\\SistemaMelhorado\\Cliente\\Cliente_Forms.cs",
+              "RelativeDocumentMoniker": "Cliente\\Cliente_Forms.cs",
+              "ToolTip": "C:\\Users\\joaov\\source\\repos\\SistemaMelhorado\\Cliente\\Cliente_Forms.cs [Projeto]",
+              "RelativeToolTip": "Cliente\\Cliente_Forms.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:30:44.164Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\source\\repos\\SistemaMelhorado\\Form Principal\\Form1.cs",
+              "RelativeDocumentMoniker": "Form Principal\\Form1.cs",
+              "ToolTip": "C:\\Users\\joaov\\source\\repos\\SistemaMelhorado\\Form Principal\\Form1.cs",
+              "RelativeToolTip": "Form Principal\\Form1.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAIwLwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T22:49:33.003Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
