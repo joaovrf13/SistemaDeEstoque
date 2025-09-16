@@ -25,7 +25,7 @@ namespace SistemaMelhorado.Cliente.DadosClientes
             string query = "SELECT * FROM clientes"; // Insira o nome correto da tabela aqui
             try
             {
-                using (MySqlConnection conn = new MySqlConnection(ConexaoBanco.BancoServidor2))
+                using (MySqlConnection conn = new MySqlConnection(ConexaoBanco.BancoServidor1))
                 {
                     conn.Open();
                     using (MySqlCommand cmd = new MySqlCommand(query, conn))

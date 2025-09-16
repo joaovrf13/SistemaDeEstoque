@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Conexão Banco\" />
+    <Folder Include="ConexaoBanco\" />
   </ItemGroup>
 
   <ItemGroup>

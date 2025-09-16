@@ -81,7 +81,7 @@ namespace SistemaMelhorado.Cadastro_Produtos
                     conexao.Open();
 
                     string query = @"INSERT INTO produtos 
-                             (nome, categoria, custo, preco, quantidade, fornecedor, datadacompra) 
+                             (nome, categoria, custo, preco, quantidade, fornecedor, dataDaCompra) 
                              VALUES 
                              (@Nome, @Categoria, @Custo, @Preco, @Quantidade, @Fornecedor, @Datadacompra)";
 

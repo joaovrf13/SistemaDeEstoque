@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/3LkfICqwCY=",
+  "dgSpecHash": "AIlN2QGfz7E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaov\\source\\repos\\SistemaMelhorado\\SistemaMelhorado.csproj",
+  "projectFilePath": "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\Sistema de Estoque\\SistemaDeEstoque\\SistemaMelhorado.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaov\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\joaov\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

@@ -1,0 +1,16 @@
+# Arquivos padrão a ignorar no Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignorar pacotes gerados automaticamente
+packages/
+*.nupkg
+project.lock.json
+
+# Ignorar arquivos de configuração locais
+appsettings.Development.json
+ConexaoBanco/ConexaoBanco.cs

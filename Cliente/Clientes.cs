@@ -52,7 +52,7 @@ namespace SistemaMelhorado.Cliente
         {
             try
             {
-                using (MySqlConnection conexao = new MySqlConnection(ConexaoBanco.BancoServidor2))
+                using (MySqlConnection conexao = new MySqlConnection(ConexaoBanco.BancoServidor1))
                 {
                     conexao.Open();
 
@@ -99,7 +99,7 @@ namespace SistemaMelhorado.Cliente
         {
             try
             {
-                MySqlConnection conexao = new MySqlConnection(ConexaoBanco.BancoServidor2);
+                MySqlConnection conexao = new MySqlConnection(ConexaoBanco.BancoServidor1);
                 conexao.Open();
 
                 string query = @"SELECT nome, cpf, datadenascimento
